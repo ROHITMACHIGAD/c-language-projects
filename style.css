@@ -1,0 +1,194 @@
+*{
+    background-color:black;
+}
+.home{
+    background-color:red;
+    width:70px;
+    height:25px;
+    color:white;
+    text-align:center;
+    border-radius:40px;
+    position:relative;
+    left:20px;
+}
+.about{
+    background-color:red;
+    width:70px;
+    height:25px;
+    color:white;
+    text-align:center;
+    border-radius:40px;
+    position:relative;
+    left:20px;
+}
+.contact{
+    background-color:red;
+    width:90px;
+    height:25px;
+    color:white;
+    text-align:center;
+    border-radius:40px;
+    position:relative;
+    left:20px;
+}
+.a{
+    width:40px;
+    height:3.2px;
+    background-color:white;
+    border-radius:20px;
+}
+.b{
+    width:40px;
+    height:3.2px;
+    background-color:white;
+    border-radius:20px;
+}
+.c{
+    width:40px;
+    height:3.5px;
+    background-color:white;
+    border-radius:20px;
+}
+.burger{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    position:relative;
+    top:60px;
+    left:30px;
+    width:500px;
+}
+
+.sign{
+    background-color:red;
+    width:75px;
+    height:25px;
+    color:white;
+    text-align:center;
+    border-radius:40px;
+    position:relative;
+    
+}
+.login{
+    background-color:red;
+    width:75px;
+    height:25px;
+    color:white;
+    text-align:center;
+    border-radius:40px;
+    position:relative;
+    left:1426px;
+    bottom:93px;
+}
+.container{
+    display:flex;
+    gap:30px;
+    position:relative;
+    top:13px;
+    flex-wrap:wrap;
+    background-color: black;
+}
+
+.search{
+    background-color:beige;
+    width:700px;
+    height:25px;
+    position:relative;
+    left:20px;
+    text-align:center;
+    
+}
+.image>img{
+    width:20px;
+    height:20px;
+    position:relative;
+    
+    top:2px;
+    
+}
+
+.title{
+    color:white;
+    position:relative;
+    font-size:58px;
+    width:800px;
+    left:50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.logo>img{
+    width:55px;
+    height:55px;
+    position:relative;
+    top:12px;
+}
+.logo{
+    color:white;
+    position:relative;
+    bottom:35px;
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+img{
+    width:450px;
+    height:250px;
+}
+
+.container-2{
+    display:grid;
+    position:relative;
+    top:130px;
+    justify-content:center;
+    grid-template-columns:repeat(3,0fr);
+    gap:50px;
+}
+
+
+.items{
+    color:white;
+    background-color: #3D3B40;
+    width:100px;
+    height:auto;
+    text-align:center;
+    
+}
+
+.container-3{
+    position:relative;
+    top:350px;
+    flex-wrap:wrap;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    gap:60px;
+    
+}
+
+.content{
+    color:white;
+    position:relative;
+    top:250px;
+    left:50px;
+    font-size:58px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:700px;
+}
+
+.image-1>img{
+    position:relative;
+    top:5px;
+    width:18px;
+    height:auto;
+    
+}
+
+.image-1{
+    color:white;
+    position:relative;
+    top:450px;
+    text-align:center;
+}
